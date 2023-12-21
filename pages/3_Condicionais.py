@@ -1,7 +1,6 @@
 import streamlit as st
 
-st.title("Terceira página")
+st.title("Condicionais ")
 st.sidebar.markdown("# Condicionais")
 
 st.divider()
-
